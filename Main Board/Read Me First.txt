@@ -1,0 +1,16 @@
+Yeu cau:
+
++ mach 1 lop dung de ui (dung cho lop C7)
++ chu y note trong schematic
+
++ footprint lib moi nhat duoc gui kem
+
++ chu y chinh pads to len thi moi ui duoc
+vd:
+chan tu pi 65 mils --> khoang tam 70 mils cho de khoan mach :)
+
+Em takenote lai giup nhung footprint nao em phai chinh cho pads big len, 
+de minh chinh lai bo library cho lop C7.
+
+Have fun!
+:) :D
