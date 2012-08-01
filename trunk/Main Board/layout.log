@@ -1,0 +1,588 @@
+Wed Aug 01 00:31:22 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 00:31:26 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 00:31:27 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:31:28 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:31:29 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:31:29 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:37:09 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:37:13 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:37:37 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:06 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:07 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:09 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:11 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:14 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:36 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:38 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 00:38:47 Loaded file C:\Program Files\Orcad\Layout_Plus\library\padstack.llb
+Wed Aug 01 11:17:12 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 11:17:12 Saved as file BACKUP1.MAX
+Wed Aug 01 11:17:12 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 11:17:12 UserDiv from Layout.INI for AutoECO: 60
+Wed Aug 01 11:17:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 11:17:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:12 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PIF_LOGO_RV.LLB
+Wed Aug 01 11:17:12 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PAYITFORWARD_FOOTPRINT_01012012.LLB
+Wed Aug 01 11:17:12 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PAYITFORWARD_FOOTPRINT_270311.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PAYITFORWARD.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PHUONG.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\ANTENNA CONECTOR.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\ATMEGA128.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\BCON100T.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\BCON156T.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\BGA.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\CAP.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\CLCC.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\CON_2.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\CON_12.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\CONG TAC NUT.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DCON050T.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DCON085T.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIEN TRO TREO.LLB
+Wed Aug 01 11:17:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIMM050F.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIMM050T.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIODE.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIP MOT LOP.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIP.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIP100B.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DIP100T.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DOANHUNG.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DSUBT.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\DSUBT_HD.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\ECON100T.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\EMPTY.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\EX_GUI.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\FBUS.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\FET.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\FULLACCESS(MODIFIED).LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\HGN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\HIEU.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\HOADOAN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\HUUTAN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\IC DAC BIET.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\IC ON AP.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\IC PIN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\ISA.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\JUM.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\JUMPER.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\KIEENNX.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\KITTEN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\L298.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LAYOUT LIBRARY MANUAL.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LAYOUT.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LAYOUTMT.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LCON100T.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LIBRARY LONG.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LINH KIEN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LINHKIEN.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LO1.LLB
+Wed Aug 01 11:17:14 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LO2.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LOC.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\LOC1.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\METRIC.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\NUT_BAM.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\OPTO.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PAD.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PADSTACK.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PAY.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PC104.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PCI.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PCON100T.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PCON156T.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PGA.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PHAMHUY.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PLCC.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PP MICRO SD.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\P'S QFN.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\QUAD.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\QUADB.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\RELAY.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\RES.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\RF.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\ROLE.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SBUS.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SIMM050F.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SIMM050T.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SIMM100F.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SIMM100T.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SIP.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SM.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SOG.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\SOJ.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\STIFF.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\T2L LAYOUT.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TC2185.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TELE.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THACHANH_LCD.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THANHSON.LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THU VIEN - TRIEU..LLB
+Wed Aug 01 11:17:15 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THU VIEN LAYOUT BETA 3.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THU VIEN PIC .LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THU VIEN.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THU VIEN2.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THU VIEN11.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\THUVIENTIEN.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TIEN.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TLOC.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TM_AXIAL.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TM_CAP_P.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TM_CYLND.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TM_DIODE.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TM_DISC.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TM_RAD.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TO.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TRAINING.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TRANSISTOR.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TRANSITROR.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TRIAC.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TU TAO.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\TUHOA.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\USBMINI.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\VANHOA.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\VRES.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\WCON100T.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\XT.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\XTAL.LLB
+Wed Aug 01 11:17:16 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\ZIGZAG.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:17 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:17:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:17:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:18:33 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:18:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:18:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:18:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:19:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:19:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:19:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:19:12 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:20:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:20:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:20:34 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:20:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:20:45 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:20:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:20:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:20:52 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:20:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Wed Aug 01 11:20:57 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:20:57 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 11:20:57 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 11:23:30 Saved as file ~undo.max
+Wed Aug 01 11:26:26 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:26:26 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:26:29 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:26:36 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:26:44 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:27:27 Saved as file BACKUP1.MAX
+Wed Aug 01 11:28:56 Saved as file ~undo.max
+Wed Aug 01 11:37:27 Saved as file BACKUP1.MAX
+Wed Aug 01 11:47:28 Saved as file BACKUP1.MAX
+Wed Aug 01 11:48:17 Saved as file ~undo.max
+Wed Aug 01 11:48:17 Saved as file ~undo.max
+Wed Aug 01 11:48:27 Saved as file ~undo.max
+Wed Aug 01 11:54:06 Saved as file ~undo.max
+Wed Aug 01 11:55:06 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:06 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:06 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:06 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:08 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:55:39 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:39 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:39 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:39 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:43 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 11:55:47 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:48 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:51 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 11:55:59 Saved as file ~undo.max
+Wed Aug 01 11:56:47 Saved as file ~undo.max
+Wed Aug 01 11:57:21 Saved as file ~undo.max
+Wed Aug 01 11:57:52 Saved as file ~undo.max
+Wed Aug 01 11:57:58 Saved as file BACKUP1.MAX
+Wed Aug 01 11:58:31 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 11:58:32 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 12:04:38 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 12:04:39 Saved as file ~undo.max
+Wed Aug 01 12:06:38 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 12:08:00 Saved as file BACKUP1.MAX
+Wed Aug 01 12:08:22 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 12:09:42 Saved as file ~undo.max
+Wed Aug 01 12:10:53 Saved as file ~undo.max
+Wed Aug 01 12:11:55 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 12:12:05 Saved as file ~undo.max
+Wed Aug 01 12:12:13 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 12:12:34 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:12:35 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:13:51 Saved as file ~undo.max
+Wed Aug 01 15:19:54 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:19:54 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:19:55 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:19:55 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:19:56 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 15:20:00 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:01 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:02 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:02 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:03 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:03 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:03 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:03 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:20:05 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 15:24:59 Saved as file ~undo.max
+Wed Aug 01 15:26:26 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:26:28 Saved as file ~undo.max
+Wed Aug 01 15:27:29 Saved as file ~undo.max
+Wed Aug 01 15:27:32 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:27:57 Saved as file BACKUP1.MAX
+Wed Aug 01 15:28:49 Saved as file ~undo.max
+Wed Aug 01 15:28:54 Saved as file ~undo.max
+Wed Aug 01 15:32:17 Saved as file ~undo.max
+Wed Aug 01 15:33:46 Saved as file ~undo.max
+Wed Aug 01 15:34:05 Saved as file ~undo.max
+Wed Aug 01 15:36:32 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:37:57 Saved as file BACKUP1.MAX
+Wed Aug 01 15:39:09 Saved as file ~undo.max
+Wed Aug 01 15:40:59 Saved as file ~undo.max
+Wed Aug 01 15:42:18 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:43:27 Saved as file ~undo.max
+Wed Aug 01 15:44:07 Saved as file ~undo.max
+Wed Aug 01 15:44:16 Saved as file ~undo.max
+Wed Aug 01 15:44:17 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:44:52 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:46:07 Saved as file ~undo.max
+Wed Aug 01 15:47:58 Saved as file BACKUP1.MAX
+Wed Aug 01 15:51:26 Saved as file ~undo.max
+Wed Aug 01 15:52:31 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:52:55 Saved as file ~undo.max
+Wed Aug 01 15:52:57 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 15:54:53 Saved as file ~undo.max
+Wed Aug 01 15:55:23 Saved as file ~undo.max
+Wed Aug 01 15:56:12 Saved as file ~undo.max
+Wed Aug 01 15:56:24 Saved as file ~undo.max
+Wed Aug 01 15:56:53 Saved as file ~undo.max
+Wed Aug 01 15:57:58 Saved as file BACKUP1.MAX
+Wed Aug 01 15:58:46 Saved as file ~undo.max
+Wed Aug 01 16:03:44 Saved as file ~undo.max
+Wed Aug 01 16:05:39 Saved as file ~undo.max
+Wed Aug 01 16:07:01 Saved as file ~undo.max
+Wed Aug 01 16:07:52 Saved as file ~undo.max
+Wed Aug 01 16:08:28 Saved as file BACKUP1.MAX
+Wed Aug 01 16:08:29 Saved as file ~undo.max
+Wed Aug 01 16:09:01 Saved as file ~undo.max
+Wed Aug 01 16:10:55 Saved as file ~undo.max
+Wed Aug 01 16:10:56 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:15:25 Saved as file ~undo.max
+Wed Aug 01 16:15:28 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:15:44 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:15:45 Saved as file ~undo.max
+Wed Aug 01 16:18:58 Saved as file BACKUP1.MAX
+Wed Aug 01 16:23:35 Saved as file ~undo.max
+Wed Aug 01 16:24:49 Saved as file ~undo.max
+Wed Aug 01 16:25:04 Saved as file ~undo.max
+Wed Aug 01 16:27:02 Saved as file ~undo.max
+Wed Aug 01 16:28:18 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:28:59 Saved as file BACKUP1.MAX
+Wed Aug 01 16:29:26 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:30:40 Saved as file ~undo.max
+Wed Aug 01 16:33:34 Saved as file ~undo.max
+Wed Aug 01 16:34:37 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:38:27 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:38:35 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:38:35 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:38:44 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:39:32 Saved as file ~undo.max
+Wed Aug 01 16:40:59 Saved as file BACKUP1.MAX
+Wed Aug 01 16:42:43 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:42:52 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:42:52 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:42:54 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PIF_LOGO_RV.LLB
+Wed Aug 01 16:42:55 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:42:56 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:42:56 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:42:57 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:42:58 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:01 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:05 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 16:43:12 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:14 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:16 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:20 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:27 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:27 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:29 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PIF_LOGO_RV.LLB
+Wed Aug 01 16:43:31 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:32 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:33 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 16:43:47 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:48:08 Saved as file ~undo.max
+Wed Aug 01 16:49:01 Saved as file ~undo.max
+Wed Aug 01 16:49:05 Saved as file ~undo.max
+Wed Aug 01 16:49:09 Saved as file ~undo.max
+Wed Aug 01 16:50:54 Saved as file ~undo.max
+Wed Aug 01 16:51:07 Saved as file ~undo.max
+Wed Aug 01 16:51:35 Saved as file ~undo.max
+Wed Aug 01 16:51:59 Saved as file BACKUP1.MAX
+Wed Aug 01 16:52:09 Saved as file ~undo.max
+Wed Aug 01 16:52:18 Saved as file ~undo.max
+Wed Aug 01 16:52:20 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:54:03 Saved as file ~undo.max
+Wed Aug 01 16:55:39 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:55:55 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 16:57:50 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:00:11 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:01:11 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:01:28 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:02:30 Saved as file BACKUP1.MAX
+Wed Aug 01 17:05:32 Saved as file ~undo.max
+Wed Aug 01 17:05:56 Saved as file ~undo.max
+Wed Aug 01 17:05:57 Saved as file ~undo.max
+Wed Aug 01 17:06:43 Saved as file ~undo.max
+Wed Aug 01 17:07:21 Saved as file ~undo.max
+Wed Aug 01 17:07:45 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:08:02 Saved as file ~undo.max
+Wed Aug 01 17:08:39 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:09:11 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:09:52 Saved as file ~undo.max
+Wed Aug 01 17:09:56 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:10:01 Saved as file ~undo.max
+Wed Aug 01 17:10:12 Saved as file ~undo.max
+Wed Aug 01 17:10:19 Saved as file ~undo.max
+Wed Aug 01 17:10:35 Saved as file ~undo.max
+Wed Aug 01 17:10:45 Saved as file ~undo.max
+Wed Aug 01 17:10:47 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:12:30 Saved as file BACKUP1.MAX
+Wed Aug 01 17:13:14 Saved as file ~undo.max
+Wed Aug 01 17:14:02 Saved as file ~undo.max
+Wed Aug 01 17:14:13 Saved as file ~undo.max
+Wed Aug 01 17:14:32 Saved as file ~undo.max
+Wed Aug 01 17:14:59 Saved as file ~undo.max
+Wed Aug 01 17:15:16 Saved as file ~undo.max
+Wed Aug 01 17:16:43 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:16:56 Saved as file ~undo.max
+Wed Aug 01 17:17:04 Saved as file ~undo.max
+Wed Aug 01 17:18:07 Saved as file ~undo.max
+Wed Aug 01 17:19:03 Saved as file ~undo.max
+Wed Aug 01 17:19:19 Saved as file ~undo.max
+Wed Aug 01 17:20:23 Saved as file ~undo.max
+Wed Aug 01 17:20:51 Saved as file ~undo.max
+Wed Aug 01 17:21:38 Saved as file ~undo.max
+Wed Aug 01 17:22:29 Saved as file ~undo.max
+Wed Aug 01 17:22:30 Saved as file BACKUP1.MAX
+Wed Aug 01 17:24:28 Saved as file ~undo.max
+Wed Aug 01 17:24:42 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:25:05 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:27:39 Saved as file ~undo.max
+Wed Aug 01 17:29:02 Saved as file ~undo.max
+Wed Aug 01 17:30:43 Saved as file ~undo.max
+Wed Aug 01 17:30:46 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:31:23 Saved as file ~undo.max
+Wed Aug 01 17:31:48 Saved as file ~undo.max
+Wed Aug 01 17:32:11 Saved as file ~undo.max
+Wed Aug 01 17:32:26 Saved as file ~undo.max
+Wed Aug 01 17:32:28 Saved as file ~undo.max
+Wed Aug 01 17:32:31 Saved as file BACKUP1.MAX
+Wed Aug 01 17:32:48 Saved as file ~undo.max
+Wed Aug 01 17:33:20 Saved as file ~undo.max
+Wed Aug 01 17:34:21 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:34:23 Saved as file ~undo.max
+Wed Aug 01 17:34:42 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:35:17 Saved as file ~undo.max
+Wed Aug 01 17:35:33 Saved as file ~undo.max
+Wed Aug 01 17:36:09 Saved as file ~undo.max
+Wed Aug 01 17:36:51 Saved as file ~undo.max
+Wed Aug 01 17:37:41 Saved as file ~undo.max
+Wed Aug 01 17:38:19 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:39:16 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:39:28 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:40:12 Saved as file ~undo.max
+Wed Aug 01 17:40:29 Saved as file ~undo.max
+Wed Aug 01 17:40:52 Saved as file ~undo.max
+Wed Aug 01 17:41:12 Saved as file ~undo.max
+Wed Aug 01 17:41:26 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:41:36 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:41:45 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:42:22 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:42:31 Saved as file BACKUP1.MAX
+Wed Aug 01 17:43:00 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:43:01 Saved as file ~undo.max
+Wed Aug 01 17:43:58 Saved as file ~undo.max
+Wed Aug 01 17:44:27 Saved as file ~undo.max
+Wed Aug 01 17:45:36 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:46:04 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:46:11 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 17:46:11 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 17:46:13 Loaded file D:\BTMACH\ORCAD LIB\PLAYOUT\PIF_LOGO_RV.LLB
+Wed Aug 01 17:46:15 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 17:46:32 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:48:57 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:49:48 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:50:27 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:51:49 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:52:31 Saved as file BACKUP1.MAX
+Wed Aug 01 17:52:50 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 17:54:47 Saved as file ~undo.max
+Wed Aug 01 17:57:07 Saved as file ~undo.max
+Wed Aug 01 17:58:48 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:00:46 Saved as file ~undo.max
+Wed Aug 01 18:01:44 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:02:31 Saved as file BACKUP1.MAX
+Wed Aug 01 18:02:43 Saved as file ~undo.max
+Wed Aug 01 18:04:23 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:05:38 Saved as file ~undo.max
+Wed Aug 01 18:05:53 Saved as file ~undo.max
+Wed Aug 01 18:06:45 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:07:30 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:07:40 Saved as file ~undo.max
+Wed Aug 01 18:07:41 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:07:49 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:08:42 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:10:13 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:11:46 Saved as file ~undo.max
+Wed Aug 01 18:11:47 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:12:11 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:12:24 Saved as file ~undo.max
+Wed Aug 01 18:12:32 Saved as file BACKUP1.MAX
+Wed Aug 01 18:12:52 Saved as file ~undo.max
+Wed Aug 01 18:12:53 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:13:20 Saved as file ~undo.max
+Wed Aug 01 18:17:35 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:19:03 Saved as file ~undo.max
+Wed Aug 01 18:19:13 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:19:26 Saved as file ~undo.max
+Wed Aug 01 18:20:46 Saved as file ~undo.max
+Wed Aug 01 18:21:11 Saved as file ~undo.max
+Wed Aug 01 18:21:45 Saved as file ~undo.max
+Wed Aug 01 18:22:19 Saved as file ~undo.max
+Wed Aug 01 18:22:32 Saved as file BACKUP1.MAX
+Wed Aug 01 18:23:22 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:22 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:22 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:22 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:24 Loaded file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\PAYITFORWARD_FOOTPRINT_31072012.LLB
+Wed Aug 01 18:23:28 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:29 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:29 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:29 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:30 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:30 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:30 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:30 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:30 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:32 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:32 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:32 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:23:32 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Wed Aug 01 18:24:11 Saved as file ~undo.max
+Wed Aug 01 18:24:16 Saved as file ~undo.max
+Wed Aug 01 18:25:00 Saved as file ~undo.max
+Wed Aug 01 18:25:15 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:25:24 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:25:51 Saved as file ~undo.max
+Wed Aug 01 18:27:03 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:27:34 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:27:48 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:27:50 Saved as file ~undo.max
+Wed Aug 01 18:29:58 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:31:40 Saved as file ~undo.max
+Wed Aug 01 18:31:49 Saved as file ~undo.max
+Wed Aug 01 18:33:02 Saved as file BACKUP1.MAX
+Wed Aug 01 18:33:06 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:33:14 Saved as file ~undo.max
+Wed Aug 01 18:33:15 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:33:48 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:35:25 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:36:08 Saved as file ~undo.max
+Wed Aug 01 18:38:11 Saved as file ~undo.max
+Wed Aug 01 18:38:23 Saved as file ~undo.max
+Wed Aug 01 18:38:45 Saved as file ~undo.max
+Wed Aug 01 18:39:13 Saved as file ~undo.max
+Wed Aug 01 18:39:31 Saved as file ~undo.max
+Wed Aug 01 18:39:35 Saved as file ~undo.max
+Wed Aug 01 18:40:32 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:41:39 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:41:48 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:42:51 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 18:43:33 Saved as file BACKUP1.MAX
+Wed Aug 01 18:53:33 Saved as file BACKUP1.MAX
+Wed Aug 01 19:01:53 Saved as file ~undo.max
+Wed Aug 01 19:03:33 Saved as file BACKUP1.MAX
+Wed Aug 01 19:05:05 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:06:01 Saved as file ~undo.max
+Wed Aug 01 19:07:11 Saved as file ~undo.max
+Wed Aug 01 19:07:12 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:09:22 Saved as file ~undo.max
+Wed Aug 01 19:10:58 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:11:47 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:12:37 Saved as file ~undo.max
+Wed Aug 01 19:13:02 Saved as file ~undo.max
+Wed Aug 01 19:13:07 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:13:34 Saved as file BACKUP1.MAX
+Wed Aug 01 19:13:50 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:14:26 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:15:20 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:16:40 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:17:06 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:17:31 Saved as file ~undo.max
+Wed Aug 01 19:17:41 Saved as file ~undo.max
+Wed Aug 01 19:19:34 Saved as file ~undo.max
+Wed Aug 01 19:19:49 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:19:55 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:20:32 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:21:58 Saved as file ~undo.max
+Wed Aug 01 19:23:10 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:23:34 Saved as file BACKUP1.MAX
+Wed Aug 01 19:24:00 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:24:29 Saved as file ~undo.max
+Wed Aug 01 19:26:58 Saved as file ~undo.max
+Wed Aug 01 19:27:02 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:30:50 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:33:34 Saved as file BACKUP1.MAX
+Wed Aug 01 19:33:43 Saved as file ~undo.max
+Wed Aug 01 19:34:12 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:35:17 Saved as file ~undo.max
+Wed Aug 01 19:35:37 Saved as file ~undo.max
+Wed Aug 01 19:36:10 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:37:03 Saved as file ~undo.max
+Wed Aug 01 19:39:48 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:40:26 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:40:56 Saved as file ~undo.max
+Wed Aug 01 19:43:34 Saved as file BACKUP1.MAX
+Wed Aug 01 19:43:51 Saved as file ~undo.max
+Wed Aug 01 19:45:04 Saved as file ~undo.max
+Wed Aug 01 19:46:18 Saved as file ~undo.max
+Wed Aug 01 19:46:50 Saved as file ~undo.max
+Wed Aug 01 19:48:20 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:50:03 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:50:51 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:52:11 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:52:22 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:52:37 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:53:04 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:53:35 Saved as file BACKUP1.MAX
+Wed Aug 01 19:58:15 Saved as file ~undo.max
+Wed Aug 01 19:58:26 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+Wed Aug 01 19:58:44 Saved as file ~undo.max
+Wed Aug 01 19:58:48 Saved as file ~undo.max
+Wed Aug 01 20:01:11 Saved as file ~undo.max
+Wed Aug 01 20:03:12 Saved as file E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX

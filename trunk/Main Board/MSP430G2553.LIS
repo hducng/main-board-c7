@@ -1,0 +1,171 @@
+AutoECO Report
+FILE-A: E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MAX
+FILE-B: E:\EVALBOT_IMAGE\MAIN C7\MAIN BOARD\MSP430G2553.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint SW DIP2
+Adding footprint LED 5 LY
+Adding footprint RESISTOR 1/4W
+Adding footprint HEADER 3
+Adding footprint DIODE CAU TRON
+Adding footprint HEADER 3X2 _OBL
+Adding footprint TU PI
+Adding footprint HEADER 2 _OBL
+Adding footprint HEADER 8
+Adding footprint CRYSTAL
+Adding footprint SW 3 PINS
+Adding footprint TO220+TAN NHIET
+Adding footprint BIEN TRO VOLUME
+Adding footprint TU 470U 16V
+Adding footprint TU 1000U 35V 
+Adding footprint HEADER 9_OBL
+Adding footprint DIP 20
+Adding footprint TU 100U 50V
+Adding footprint SOT 223
+Adding footprint BUTTON SMALL
+Adding footprint HEADER 5
+Adding package SW_DIP-2
+Adding package LED
+Adding package R
+Adding package HEADER_3
+Adding package BRIDGE
+Adding package D:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/R
+Adding package HEADER_3X2
+Adding package SW_PB_SPST
+Adding package CAP_NP
+Adding package HEADER_2
+Adding package HEADER_8
+Adding package CRYSTAL
+Adding package HEADER_1
+Adding package SW_PUSHWHEEL_SPDT_1
+Adding package LM1117_3_0.3V
+Adding package Q2SC1815
+Adding package RESISTOR_VAR
+Adding package C
+Adding package RESISTOR_SIP_9
+Adding package MSP430G2452_20PINS_1
+Adding package E:\PROJECTS\BAN CAPTURE\GIAI MA HONG NGOAI\ENCODING INFRARED.DSN/LM1117 3_0.3V
+Adding package D:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/SW_PB_SPST
+Adding package HEADER_5
+Adding component S1
+Adding component D8
+Adding component R12
+Adding component J13
+Adding component D3
+Adding component DB1
+Adding component R7
+Adding component J14
+Adding component J12
+Adding component D9
+Adding component J16
+Adding component J2
+Adding component D13
+Adding component SW4
+Adding component C5
+Adding component C11
+Adding component D5
+Adding component C10
+Adding component J3
+Adding component J11
+Adding component J17
+Adding component Y1
+Adding component C6
+Adding component C12
+Adding component J18
+Adding component D10
+Adding component SW1
+Adding component R3
+Adding component U2
+Adding component D11
+Adding component D1
+Adding component R5
+Adding component J9
+Adding component R2
+Adding component D4
+Adding component D6
+Adding component R10
+Adding component Q1
+Adding component D2
+Adding component VR1
+Adding component C14
+Adding component J5
+Adding component R1
+Adding component D12
+Adding component C7
+Adding component C1
+Adding component R11
+Adding component U1
+Adding component R13
+Adding component C8
+Adding component C2
+Adding component R4
+Adding component C3
+Adding component D7
+Adding component U3
+Adding component SW2
+Adding component J15
+Adding component C9
+Adding component C4
+Adding component R6
+Adding component J1
+Adding component SW3
+Adding component J6
+Adding net P1.2
+Adding net P2.2
+Adding net P1.7
+Adding net N147328
+Adding net P1.5
+Adding net N147424
+Adding net P1.1
+Adding net N147376
+Adding net P2.5
+Adding net N147568
+Adding net P2.3
+Adding net N147472
+Adding net P2.1
+Adding net N147520
+Adding net P1.3
+Adding net N147699
+Adding net P1.4
+Adding net 3V3 REGULATOR
+Adding net P2.0
+Adding net P2.4
+Adding net N106397
+Adding net N108964
+Adding net P1.0
+Adding net P1.6
+Adding net 3V3 LAUNCHPAD
+Adding net N148008
+Adding net N148047
+Adding net N148093
+Adding net N148139
+Adding net N148203
+Adding net N148185
+Adding net N148278
+Adding net N148324
+Adding net 5V
+Adding net GND
+Adding net N1056842
+Adding net N149127
+Adding net XOUT
+Adding net XIN
+Adding net N1450971
+Adding net P2.6
+Adding net P2.7
+Adding net N1463991
+Adding net N1492210
+Adding net N1492211
+Adding net N149728
+Adding net N1495930
+Adding net N1039731
+Adding net 3.3V
+Adding net TEST
+Adding net RST
+Adding net BT1
+Adding net BT2
+Adding net AC1
+Adding net AC2
+Adding net 15.3V
+Adding net N131659
+Deleting net DEFAULT
+*EOF*
+No errors found
